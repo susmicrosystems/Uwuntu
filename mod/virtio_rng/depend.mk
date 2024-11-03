@@ -1,0 +1,1 @@
+virtio_rng: virtio
